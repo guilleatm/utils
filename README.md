@@ -1,7 +1,5 @@
 # Utils
 
-Please, work 2
-
 ## Description
 
 Useful functions for your lua project.
